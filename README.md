@@ -1,6 +1,6 @@
 # UCU Chance Project
 
-[a link](https://ucu-calc.herokuapp.com)
+### [Website](https://ucu-calc.herokuapp.com)
 
 ## WEB-helper for applicants during entering a session
 ***
@@ -67,8 +67,8 @@ Then if you press button "Search" and scroll down, you will see some info about 
 * <code>pip install Flask</code>
 ***
 ### Credits
-* Tymofii Kozak, UCU(Ukrainian Catholic University)
-* Taras Onyshkiv, UCU(Ukrainian Catholic University)
-* Mykhailo-Markiian Tsalyk, UCU(Ukrainian Catholic University)
-* Severyn-Dmytro Peleshko, UCU(Ukrainian Catholic University)
-* Oksana Sadova, UCU(Ukrainian Catholic University)
+* Tymofii Kozak, UCU 
+* Taras Onyshkiv, UCU
+* Mykhailo-Markiian Tsalyk, UCU
+* Severyn-Dmytro Peleshko, UCU
+* Oksana Sadova, UCU
